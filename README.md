@@ -1,6 +1,6 @@
 # Making Web App with React (Nomad Coder)
 
-https://github.com/keinn51/toy_projects/assets/79993356/aca5e5c3-3140-4f05-865e-418bcb965c89
+https://github.com/keinn51/keinn51/assets/79993356/b27ac0a7-346b-4db6-a282-c6c0b8f80c7d
 
 <p align='center'>
         <span>firebase 과금 문제로 배포 페이지는 사용이 불가능합니다🥲</span>
@@ -77,4 +77,4 @@ npm run deploy
 
 ###### [트위터 클론코딩](https://nomadcoders.co/nwitter)
 
-<img width="2008" alt="Course_main" src="https://user-images.githubusercontent.com/79993356/153118346-668d60e5-bcc2-4130-8610-25c576e257a4.png">
+<img width="2008" alt="153118346-668d60e5-bcc2-4130-8610-25c576e257a4" src="https://github.com/keinn51/keinn51/assets/79993356/9a82daad-b75a-49a2-8b94-e5f33ebe4717">
